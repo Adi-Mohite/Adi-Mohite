@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Mohite</h1>
-<h3 align="center">🚀 MERN Stack Developer | Software Developer | Fresher</h3>
+<h3 align="center">🚀 MERN Stack Developer | Fresher</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh-mohite" target="_blank">
@@ -45,16 +45,6 @@
 - Admin dashboard with analytics & optimized APIs
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, JWT
-
----
-
-### 🔹 Sports Complex Management System
-- Desktop application for **member, booking & payment management**
-- Secure registrations & facility booking system
-- Financial & operational reporting using **SAP Crystal Reports**
-- Clean UI with reliable **MS SQL Server** storage
-
-**Tech:** C#, .NET, MS SQL Server, SAP Crystal Reports
 
 ---
 
@@ -112,11 +102,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Adi-Mohite&theme=onedark&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Adi-Mohite&theme=onedark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Mohite&layout=compact&theme=onedark)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adi-Mohite&theme=radical&no-frame=false&no-bg=true)
 
 ---
 
