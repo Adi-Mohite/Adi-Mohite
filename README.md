@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **BBA (Computer Applications)** graduate with strong foundations in **software development and system design**  
+🎓 **BCA** graduate with strong foundations in **software development and system design**  
 💻 Passionate **MERN Stack Developer** experienced in building **secure, scalable & real-time applications**  
 🔐 Hands-on experience with **End-to-End Encryption, Authentication & Authorization**  
 🤖 Integrated **AI features (Gemini AI)** into production-ready applications  
